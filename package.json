@@ -1,0 +1,33 @@
+{
+  "name": "smartbnbkit-backend",
+  "version": "1.0.0",
+  "description": "The backend API for Toptal's Open Source Rental-Economy Hardware Kit",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartbnbkit/backend.git"
+  },
+  "keywords": [
+    "hardware",
+    "iot",
+    "backend"
+  ],
+  "author": "The Toptal Hardware Community",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/smartbnbkit/backend/issues"
+  },
+  "homepage": "https://github.com/smartbnbkit/backend#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.6",
+    "typescript": "^1.8.10"
+  }
+}
