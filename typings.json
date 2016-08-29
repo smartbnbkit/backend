@@ -4,6 +4,7 @@
     "es6-promise": "registry:npm/es6-promise#3.0.0+20160723033700"
   },
   "globalDependencies": {
-    "nedb": "registry:dt/nedb#0.0.0+20160505185910"
+    "nedb": "registry:dt/nedb#0.0.0+20160505185910",
+    "shortid": "registry:dt/shortid#0.0.0+20160316155526"
   }
 }
